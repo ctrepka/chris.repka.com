@@ -1,0 +1,1 @@
+{"title":"new blog","published_on":"","body":"\r\n```mermaid\r\nstateDiagram-v2\r\n[*] --> Still\r\nStill --> [*]\r\n\r\nStill --> Moving\r\nMoving --> Still\r\nMoving --> Crash\r\nCrash --> [*]\r\n```"}
