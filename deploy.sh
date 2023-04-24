@@ -3,6 +3,7 @@ npm install
 npm run build
 
 cd ./build
+touch ./.nojekyll
 
 git init
 git add -A

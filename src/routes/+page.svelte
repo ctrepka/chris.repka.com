@@ -1,5 +1,1 @@
-<script>
-    let search = "";
-</script>
-
-<h1>Collections</h1>
+<h1>Chris Repka's Portfolio</h1>
